@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close_icon.svg</file>
+        <file>images/close.png</file>
+        <file>images/thumb-up.png</file>
+        <file>images/youtube.png</file>
+        <file>images/question.png</file>
+    </qresource>
+</RCC>
